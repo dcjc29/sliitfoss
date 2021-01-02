@@ -14,21 +14,11 @@
       "id": 2,
       "name": "Chamod Shehanka",
       "position": "Vice President",
-      "img": "../../../assets/img/board/chamod.jpg",
+      "img": "https://avatars1.githubusercontent.com/u/19349315",
       "facebook": "http://facebook.com/chamodshehanka",
       "twitter": "http://twitter.com/chamodshehanka",
       "instagram": "http://instagram.com/chamodshehanka/",
       "linkedin": "http://linkedin.com/in/chamodshehanka/"
-    },
-    {
-      "id": 10,
-      "name": "Sithum Sandeepa",
-      "position": "Project Coordinator",
-      "img": "../../../assets/img/board/sithum.jpeg",
-      "facebook": "https://www.facebook.com/sithumonline",
-      "twitter": "https://twitter.com/sithumonline",
-      "instagram": "https://www.instagram.com/sithumonline/",
-      "linkedin": "https://www.linkedin.com/in/bopitiya-s-perera/"
     },
     {
       "id": 3,
@@ -59,6 +49,26 @@
       "twitter": "https://twitter.com/thilanbawantha",
       "instagram": "https://www.instagram.com/bawwa_/",
       "linkedin": "https://www.linkedin.com/in/bawanthathilan/"
+    },
+    {
+      "id": 8,
+      "name": "Malindu Attygala",
+      "position": "Assistant Treasurer",
+      "img": "../../../assets/img/board/malindu.jpg",
+      "facebook": "https://www.facebook.com/malindu.attygala.9",
+      "twitter": "https://twitter.com/AttygalaMalindu",
+      "instagram": "https://www.instagram.com/malindu_attygala/",
+      "linkedin": "https://www.linkedin.com/in/malindu-attygala-b98b34182"
+    },
+    {
+      "id": 10,
+      "name": "Sithum Sandeepa",
+      "position": "Project Coordinator",
+      "img": "../../../assets/img/board/sithum.jpeg",
+      "facebook": "https://www.facebook.com/sithumonline",
+      "twitter": "https://twitter.com/sithumonline",
+      "instagram": "https://www.instagram.com/sithumonline/",
+      "linkedin": "https://www.linkedin.com/in/bopitiya-s-perera/"
     }
   ]
 }
