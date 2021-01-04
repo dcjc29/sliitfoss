@@ -51,6 +51,26 @@
       "linkedin": "https://www.linkedin.com/in/bawanthathilan/"
     },
     {
+      "id": 6,
+      "name": "Asel Pieris",
+      "position": "Dev Relations",
+      "img": "../../../assets/img/board/asel.jpg",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": ""
+    },
+    {
+      "id": 7,
+      "name": "Kaveesha Gimhana",
+      "position": "Treasurer",
+      "img": "https://avatars0.githubusercontent.com/u/36946467",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": ""
+    },
+    {
       "id": 8,
       "name": "Malindu Attygala",
       "position": "Assistant Treasurer",
@@ -60,17 +80,6 @@
       "instagram": "https://www.instagram.com/malindu_attygala/",
       "linkedin": "https://www.linkedin.com/in/malindu-attygala-b98b34182"
     },
-    {
-      "id": 10,
-      "name": "Sithum Sandeepa",
-      "position": "Project Coordinator",
-      "img": "../../../assets/img/board/sithum.jpeg",
-      "facebook": "https://www.facebook.com/sithumonline",
-      "twitter": "https://twitter.com/sithumonline",
-      "instagram": "https://www.instagram.com/sithumonline/",
-      "linkedin": "https://www.linkedin.com/in/bopitiya-s-perera/"
-    }
-    ,
     {
       "id": 9,
       "name": "Nisal Palliyaguru",
